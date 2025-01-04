@@ -1,5 +1,16 @@
 # 🔐 Flutter Auth0 Authentication Example App
 
+## SS
+
+
+
+<img src="https://github.com/user-attachments/assets/a2d3ad89-4cf9-4d7e-81c1-04974eadda30" width="250">
+<img src="https://github.com/user-attachments/assets/6c526ffb-ec85-40a8-bccd-e78ba2365daf" width="250">
+<img src="https://github.com/user-attachments/assets/9eacd296-f76f-4e0c-a80f-d165a2b6da54" width="250">
+
+
+
+
 [TR] Auth0 kimlik doğrulama sistemi ile geliştirilmiş Flutter uygulaması.
 [EN] Flutter application developed with Auth0 authentication system.
 
