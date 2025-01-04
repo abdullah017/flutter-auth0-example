@@ -134,10 +134,7 @@ lib/
 4. Push to the branch (`git push origin feature/newFeature`)
 5. Create a Pull Request
 
-## 📝 Lisans | License
 
-[TR] Bu proje MIT lisansı altında lisanslanmıştır.
-[EN] This project is licensed under the MIT License.
 
 ## 📞 İletişim | Contact
 
