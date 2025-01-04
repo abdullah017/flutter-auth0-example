@@ -12,6 +12,7 @@
 
 
 [TR] Auth0 kimlik doğrulama sistemi ile geliştirilmiş Flutter uygulaması.
+
 [EN] Flutter application developed with Auth0 authentication system.
 
 ## 📱 Özellikler | Features
